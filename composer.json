@@ -1,0 +1,9 @@
+{
+    "name": "ec-cube/DataMigration4FromV3",
+    "version": "1.0.0",
+    "description": "3系からのデータ移行プラグイン",
+    "type": "eccube-plugin",
+    "extra": {
+        "code": "DataMigration4FromV3"
+    }
+}
